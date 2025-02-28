@@ -61,6 +61,5 @@ feat(css): styling layouts using Flexbox and Grid for responsive design
 
 Your Summary in Git commit message format:
 
-- ?
-- ?
-- ?
+- feat(sql): learn how to query data with SELECT, JOINS , WHERE and many technic and do the example
+- feat(html): learn the website structure by html about <h1>-<h6> <p> <header> <section> <footer> <ui>,<li> and many function
